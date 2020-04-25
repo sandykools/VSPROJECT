@@ -1,0 +1,17 @@
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\UnitTestProject2.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\UnitTestProject2.pdb
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\QuickDate.exe
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\QuickDate.pdb
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\QuickDate.exe.config
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\obj\Release\QuickTest.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\obj\Release\QuickTest.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\obj\Release\QuickTest.csproj.CopyComplete
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\obj\Release\UnitTestProject2.dll
+C:\Users\sande\source\repos\TESTSOLUTION\UnitTestProject2\obj\Release\UnitTestProject2.pdb

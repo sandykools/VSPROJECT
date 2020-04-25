@@ -1,0 +1,6 @@
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\bin\Debug\QuickDate.exe.config
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\bin\Debug\QuickDate.exe
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\bin\Debug\QuickDate.pdb
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\obj\Debug\QuickDate.exe
+C:\Users\sande\source\repos\TESTSOLUTION\QuickDate\obj\Debug\QuickDate.pdb
